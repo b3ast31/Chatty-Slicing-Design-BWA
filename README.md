@@ -1,16 +1,15 @@
-# chatty_application_2
+# Chatty Aplication 
 
 A new Flutter project.
 
-## Getting Started
+I made this project after I studied the slicing design class at BWA.
 
-This project is a starting point for a Flutter application.
+## First look of the application
 
-A few resources to get you started if this is your first Flutter project:
+1. this is the main page :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Capture](/assets/images/Capture1.JPG)<br><br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. This is the chat page :
+
+![Capture](/assets/images/Capture2.JPG)<br><br>
